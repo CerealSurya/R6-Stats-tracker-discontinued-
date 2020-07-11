@@ -9,3 +9,6 @@
 -Only works with PC players
 
 -Must Extract all the zip files before running
+
+![](resources/GUI.png)
+
