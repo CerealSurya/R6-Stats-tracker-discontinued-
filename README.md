@@ -12,5 +12,9 @@
 
 -You need to put your Ubisoft credentials in the js file
 
+- or create another email at https://temp-mail.org/en 
+
+-go to https://account.ubisoft.com/en-GB/login paste your email and create an account
+
 ![](resources/GUI.png)
 
