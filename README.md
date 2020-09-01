@@ -1,6 +1,6 @@
 
 
-# R6 stats tracker
+# R6 stats tracker (DISCONTINUED)
 
 ## Displays r6 stats in a GUI in tkinter
 
